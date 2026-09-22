@@ -1,0 +1,81 @@
+﻿
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CPython stuff
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller / Executables (si empaquetas el limpiador)
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.pyo
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+
+# Virtual Environments (Entornos virtuales)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs y Editores de código
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Archivos del sistema y temporales (Linux / Mint)
+.DS_Store
+.directory
+.Trash-*
+*.tmp
+*.bak
+
+# Datos o variables de entorno sensibles
+.env
+.env.local
