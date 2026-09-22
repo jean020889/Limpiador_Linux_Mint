@@ -1,9 +1,8 @@
 ﻿# Dependencias estándar del limpiador (incluidas nativamente en Python 3)
-# - tkinter (incluido en Python / requiere python3-tk en la distro)
-# - subprocess (incluido en la librería estándar)
-# - os (incluido en la librería estándar)
+
 
 # Dependencias de desarrollo recomendadas
+customtkinter>=5.2.0
 pyinstaller>=6.0.0
 black>=24.0.0
 flake8>=7.0.0
